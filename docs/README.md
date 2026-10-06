@@ -117,6 +117,5 @@ print(f"Периметр треугольника: {triangle_perimetr}")
 **d078c8d** (origin/main, origin/HEAD, main) L-03: Docs added
 **8ba9aeb** L-03: Circle and square added
 
-- [google](https://google.com)
-- [yandex](https://yandex.ru)
-- [mail](https://mail.ru)
+## Тесты
+Появление тестов
