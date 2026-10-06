@@ -116,3 +116,7 @@ print(f"Периметр треугольника: {triangle_perimetr}")
 **ecec6c0** добавлен новый файл для вычисления площади и периметра прямоугольника
 **d078c8d** (origin/main, origin/HEAD, main) L-03: Docs added
 **8ba9aeb** L-03: Circle and square added
+
+- [google](https://google.com)
+- [yandex](https://yandex.ru)
+- [mail](https://mail.ru)
